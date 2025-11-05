@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Assessment Tool",
+  "description": "A web-based tool to help students discover their career paths using AI-powered assessments. Students can take various tests, and administrators can manage the questions.",
+  "requestFramePermissions": []
+}
